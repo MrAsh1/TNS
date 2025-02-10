@@ -1,4 +1,4 @@
-package Day3;
+package Day2;
 
 public class increment {
     public static void main(String[] args) {
